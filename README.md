@@ -1,1 +1,2 @@
-## used for git learning.
+# notes
+storage of CS course notes
