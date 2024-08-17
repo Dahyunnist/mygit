@@ -21,3 +21,10 @@
     3. Different instruction classes: $Clock Cycles=\sum_{i=1}^{n}{CPI_i\times IC_i}$
 $\Rightarrow CPI=\frac{Clock \,Cycles}{IC}=\sum_{i=1}^{n}{(CPI_i \times \frac{IC_i}{IC})}$
    1. Performance Summary: $CPU time=\frac{IC}{Program}\times \frac{Clock \, Cycles}{Instruction}\times \frac{Seconds}{Clock \,cycle}$
+### Lecture 3
+1. **为什么USB的传输速率要远快于CPU：**
+   1. USB是双线传输，单线或双线传输只需要自己快，但CPU内部是多线并行，需要考虑各条线的速度差异，快的要等慢的；
+   2. 散热问题；
+   3. 传输接口是没有逻辑的，但CPU内部是有逻辑的，要考虑到组合逻辑的传输延迟。
+<br/>
+2. **设计处理器的八个idea**
