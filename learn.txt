@@ -6,3 +6,4 @@ new line added at 17:40
 new line added at 18:07
 now learn stage
 creating a new branch is quick and simple.
+learn branch managing, added at 17:21.
