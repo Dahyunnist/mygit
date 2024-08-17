@@ -5,4 +5,4 @@ now completed
 new line added at 17:40
 new line added at 18:07
 now learn stage
-creating a new branch is simple.
+creating a new branch is quick and simple.
