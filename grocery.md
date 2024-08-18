@@ -36,3 +36,9 @@ Windows下用`type`而非`cat`
 1. 要上传哪个文件或文件夹，就切换到它所在的目录，然后输入`git add.`，再输入`git commit -m "commit message"`，最后输入`git push`
 2. 远程库克隆到本地：输入`git clone git@github.com:username/repository.git`
 3. 同步远程库：输入`git pull origin main`
+#### 创建并编辑文本文档
+1. 切换到要创建文档的目录
+2. 输入`touch example.txt`
+3. 使用vim编辑器编辑文档：输入`vim example.txt`
+4. 按`i`进入编辑模式，输入内容后按`Esc`退出编辑模式，输入`:wq`保存并退出
+5. 按`q`退出vim编辑器
